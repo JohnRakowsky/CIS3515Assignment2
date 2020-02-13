@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">SignUpForm</string>
     <string name="greeting">Welcome to the Sign Up Form!</string>
+    <string name="email"> Please enter your Email</string>
+    <string name="password">Please enter your password</string>
+    <string name="confirm">Please confirm your password</string>
+    <string name="emailhint">Valid Email Address</string>
+    <string name="passwordhint">Enter a password</string>
+    <string name="confirmhint">Confirm Password</string>
+    <string name="submit">Save</string>
+    <string name="entername">Enter Your Name</string>
+    <string name="nametag">Please Enter your Name</string>
 </resources>
